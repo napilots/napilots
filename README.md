@@ -42,11 +42,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=napilots&icon=0&color=0" alt="Views" />
-</p>
 
-<br>
+
+
 
 
 
