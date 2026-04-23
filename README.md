@@ -1,12 +1,12 @@
-<h1 align="center">✨ Hi, I'm Ana Clara! ✨</h1>
+<h1 align="center">🌿 Hi, I'm Ana Clara! 🌿</h1>
 
 <p align="center">
-  🎓 <b>Computer Engineering Student</b> at the State University of Rio de Janeiro (UERJ)
+  🌱 <b>Computer Engineering Student</b> at the State University of Rio de Janeiro (UERJ) 🌱
 </p>
 
 ---
 
-### 💻 Tech Stack
+### 🪴 Tech Stack
 
 **Frontend & Mobile:**<br>
 ![Flutter](https://img.shields.io/badge/Flutter-%2300441B.svg?style=flat&logo=flutter&logoColor=white)
@@ -25,13 +25,13 @@
 ![Docker](https://img.shields.io/badge/Docker-%2300441B.svg?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23006D2C.svg?style=flat&logo=linux&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23238B45.svg?style=flat&logo=pandas&logoColor=white)
-
+![NumPy](https://img.shields.io/badge/NumPy-%2341AB5D.svg?style=flat&logo=numpy&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 🍃 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=napilots&layout=donut&hide_border=true&title_color=00441B&text_color=006D2C&icon_color=41AB5D&bg_color=F7FCF5" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=napilots&layout=donut&hide_border=true&title_color=A1D99B&text_color=E5F5E0&bg_color=24292E" alt="Top Languages" />
 </p>
 
 ---
@@ -45,3 +45,8 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=napilots&icon=0&color=0" alt="Views" />
 </p>
+
+<br>
+
+
+
