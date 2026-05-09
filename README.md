@@ -1,7 +1,7 @@
 <h1 align="center">🌿 Hi, I'm Ana Clara! 🌿</h1>
 
 <p align="center">
-  🌱 <b>Computer Engineering Student</b> at the State University of Rio de Janeiro (UERJ) 🌱
+   <b>Computer Engineering Student</b> at the State University of Rio de Janeiro (UERJ) 
 </p>
 
 ---
