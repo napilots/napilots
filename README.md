@@ -31,7 +31,7 @@
 
 ### 🍃 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=napilots&layout=donut&hide_border=true&title_color=A1D99B&text_color=E5F5E0&bg_color=24292E" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=napilots&theme=panda" height="180"/>
 </p>
 
 ---
